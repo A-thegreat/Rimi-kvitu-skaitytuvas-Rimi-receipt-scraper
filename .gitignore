@@ -1,0 +1,39 @@
+# Secrets and config
+.env
+cookies.json
+config.py
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Downloaded receipts
+receipts/
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
